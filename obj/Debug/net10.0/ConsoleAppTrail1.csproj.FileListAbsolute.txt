@@ -1,0 +1,14 @@
+C:\Users\Yusuf Gamal\OneDrive\Desktop\tr\ConsoleAppTrail1\bin\Debug\net10.0\ConsoleAppTrail1.exe
+C:\Users\Yusuf Gamal\OneDrive\Desktop\tr\ConsoleAppTrail1\bin\Debug\net10.0\ConsoleAppTrail1.deps.json
+C:\Users\Yusuf Gamal\OneDrive\Desktop\tr\ConsoleAppTrail1\bin\Debug\net10.0\ConsoleAppTrail1.runtimeconfig.json
+C:\Users\Yusuf Gamal\OneDrive\Desktop\tr\ConsoleAppTrail1\bin\Debug\net10.0\ConsoleAppTrail1.dll
+C:\Users\Yusuf Gamal\OneDrive\Desktop\tr\ConsoleAppTrail1\bin\Debug\net10.0\ConsoleAppTrail1.pdb
+C:\Users\Yusuf Gamal\OneDrive\Desktop\tr\ConsoleAppTrail1\obj\Debug\net10.0\ConsoleAppTrail1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf Gamal\OneDrive\Desktop\tr\ConsoleAppTrail1\obj\Debug\net10.0\ConsoleAppTrail1.AssemblyInfoInputs.cache
+C:\Users\Yusuf Gamal\OneDrive\Desktop\tr\ConsoleAppTrail1\obj\Debug\net10.0\ConsoleAppTrail1.AssemblyInfo.cs
+C:\Users\Yusuf Gamal\OneDrive\Desktop\tr\ConsoleAppTrail1\obj\Debug\net10.0\ConsoleAppTrail1.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Gamal\OneDrive\Desktop\tr\ConsoleAppTrail1\obj\Debug\net10.0\ConsoleAppTrail1.dll
+C:\Users\Yusuf Gamal\OneDrive\Desktop\tr\ConsoleAppTrail1\obj\Debug\net10.0\refint\ConsoleAppTrail1.dll
+C:\Users\Yusuf Gamal\OneDrive\Desktop\tr\ConsoleAppTrail1\obj\Debug\net10.0\ConsoleAppTrail1.pdb
+C:\Users\Yusuf Gamal\OneDrive\Desktop\tr\ConsoleAppTrail1\obj\Debug\net10.0\ConsoleAppTrail1.genruntimeconfig.cache
+C:\Users\Yusuf Gamal\OneDrive\Desktop\tr\ConsoleAppTrail1\obj\Debug\net10.0\ref\ConsoleAppTrail1.dll
